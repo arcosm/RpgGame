@@ -60,3 +60,16 @@ crashlytics-build.properties
 
 GroundSteel/Library/AnnotationManager
 *.meta
+GroundSteel/Assets/Resources/Low Poly FPS Pack - Free (Sample)
+GroundSteel/Assets/Resources/Low Poly Free Vegetation Pack
+GroundSteel/Assets/Resources/Lowpoly Nature & Village Pack
+GroundSteel/Assets/Resources/Nicrom
+GroundSteel/Assets/Resources/Plugins
+GroundSteel/Assets/Resources/Samples
+GroundSteel/Assets/Resources/SimpleNaturePack
+GroundSteel/Library
+GroundSteel/Logs
+GroundSteel/Packages
+GroundSteel/ProjectSettings
+GroundSteel/Temp
+GroundSteel/UserSettings
